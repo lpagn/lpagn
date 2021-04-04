@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucio Pagni
-- 👀 I’m interested in Software Development, Artificial Inteligence and Data Science
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Software Development, Artificial Intelligence and Data Science
+- 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me luciopagni@itba.edu.ar
 
