@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development, Artificial Intelligence and Data Science
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me luciopagni@itba.edu.ar
+- 📫 How to reach me lpagni@itba.edu.ar
 
 <!---
 lpagn/lpagn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
